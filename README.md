@@ -1,4 +1,4 @@
-Founder & maintainer of [**workerstack**](https://github.com/workerstack), the complete stack for building platforms on Cloudflare Workers.\
+Founder & maintainer of [**workerstack**](https://github.com/workerstack), the complete stack of frameworks for building platforms on Cloudflare Workers.\
 Every hard problem, already solved.
 
 **Workerstack**
