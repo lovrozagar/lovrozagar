@@ -3,16 +3,16 @@ Every hard problem, already solved.
 
 **Workerstack**
 
-[@workerstack/frontend](https://github.com/workerstack/frontend)\
-[@workerstack/backend](https://github.com/workerstack/backend)\
-[@workerstack/database](https://github.com/workerstack/database)\
-[@workerstack/clients](https://github.com/workerstack/clients)\
-[@workerstack/ui](https://github.com/workerstack/ui)\
-[@workerstack/testing](https://github.com/workerstack/testing)\
-[@workerstack/infra](https://github.com/workerstack/infra)\
-[@workerstack/system](https://github.com/workerstack/system)\
-[@workerstack/utils](https://github.com/workerstack/utils)\
-[@workerstack/repo](https://github.com/workerstack/repo)
+@workerstack/frontend · [repo](https://github.com/workerstack/frontend) · [npm](https://www.npmjs.com/package/@workerstack/frontend)\
+@workerstack/backend · [repo](https://github.com/workerstack/backend) · [npm](https://www.npmjs.com/package/@workerstack/backend)\
+@workerstack/database · [repo](https://github.com/workerstack/database) · [npm](https://www.npmjs.com/package/@workerstack/database)\
+@workerstack/clients · [repo](https://github.com/workerstack/clients) · [npm](https://www.npmjs.com/package/@workerstack/clients)\
+@workerstack/ui · [repo](https://github.com/workerstack/ui) · [npm](https://www.npmjs.com/package/@workerstack/ui)\
+@workerstack/testing · [repo](https://github.com/workerstack/testing) · [npm](https://www.npmjs.com/package/@workerstack/testing)\
+@workerstack/infra · [repo](https://github.com/workerstack/infra) · [npm](https://www.npmjs.com/package/@workerstack/infra)\
+@workerstack/system · [repo](https://github.com/workerstack/system) · [npm](https://www.npmjs.com/package/@workerstack/system)\
+@workerstack/utils · [repo](https://github.com/workerstack/utils) · [npm](https://www.npmjs.com/package/@workerstack/utils)\
+@workerstack/repo · [repo](https://github.com/workerstack/repo) · [npm](https://www.npmjs.com/package/@workerstack/repo)
 
 **Contributions**
 
