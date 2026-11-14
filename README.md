@@ -19,3 +19,8 @@ Founder & maintainer of [**workerstack**](https://github.com/workerstack), the c
 [<img src="https://github.com/tailwindlabs.png" width="16" /> tailwindlabs](https://github.com/issues?q=author%3Alovrozagar%20org%3Atailwindlabs)\
 [<img src="https://github.com/oven-sh.png" width="16" /> oven-sh](https://github.com/issues?q=author%3Alovrozagar%20org%3Aoven-sh)\
 [<img src="https://github.com/macports.png" width="16" /> macports](https://github.com/issues?q=author%3Alovrozagar%20org%3Amacports)
+
+**Fun**
+
+Battleship · [repo](https://github.com/lovrozagar/BattleShip) · [play](https://lovrozagar.github.io/BattleShip/)\
+Geralt's Memory · [repo](https://github.com/lovrozagar/Geralts-Memory) · [play](https://lovrozagar.github.io/Geralts-Memory/)
